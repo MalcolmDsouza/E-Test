@@ -1,0 +1,4 @@
+# E-Test
+By this application we aim to provide ease of conducting examinations for students so that the absence of physical exams does not affect the examination process. We also authenticate the user by email authentication and also allow the user to change his/her password.
+This android app will provide everyone with an online platform to attempt a test from their Android Mobile device itself, since all can’t afford a laptop. Our test will be equipped with a  timer which keeps a track of when the user starts the test and ends the test when the time limit 
+set by admin is reached, thereby ensuring that all of the students got equal amount of time for the test not more nor less. We have successfully implemented the access modules: login and registration user pages, user specific GUI pages, Contact us page and T&C page. Account specific functions in their respective pages, adding location feature, adding camera feature was successfully implemented.
